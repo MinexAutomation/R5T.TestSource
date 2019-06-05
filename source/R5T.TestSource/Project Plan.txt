@@ -1,0 +1,4 @@
+R5T.TestSource - A library for NuGet functionality.
+
+Goals
+

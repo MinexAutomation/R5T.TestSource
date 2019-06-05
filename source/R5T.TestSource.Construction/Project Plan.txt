@@ -1,0 +1,4 @@
+R5T.TestSource.Construction - A construction console entry-point for the R5T.TestSource library (A library for NuGet functionality.).
+
+Goals
+
